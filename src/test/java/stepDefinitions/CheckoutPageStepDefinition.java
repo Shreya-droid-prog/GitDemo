@@ -48,6 +48,7 @@ public void user_proceeds_to_checkout(String name) throws InterruptedException
 	checkoutPage.CheckoutItems();
 	//Assertion to extract name from screen and compare with name
 	System.out.println("web automation");
+	System.out.println("mobile automation");
 }
 
 
